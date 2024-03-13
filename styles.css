@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+.main-heading{
+  text-shadow: 2px 2px red;
+  font-family:"Roboto";
+  font-weight:bold;
+  font-size:40px;
+  text-align:center;
+  
+}
+ iframe{
+    width:60%;
+    border:none;
+    margin-top:none;
+    margin-left:22%;
+    overflow: hidden;
+    height: 100vh;
+}
+.list-items{
+  color:black;
+  font-family:"Roboto";
+  font-weight:bold;
+  font-size:25px;
+  margin:5px;
+  text-decoration:none;
+
+}
+.list{
+  list-style:none;
+  margin:5px;
+}
+input{
+margin-right:10px;
+}
+.login-link {
+            position: absolute;
+            top: 20px;
+            right: 10px;
+            font-size:25px;
+            font-weight:bold;
+            text-decoration: none; 
+            color: white;
+ }
+
+
